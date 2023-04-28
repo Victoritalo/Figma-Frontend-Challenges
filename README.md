@@ -1,6 +1,6 @@
 ## **Frontend-Challenges** 
 
-### Estes são projetos que realizei em: Frontend-Mentor, Codelândia, FIGMA Templates dentro outros! :D <br>
+### Estes são projetos que realizei em: Frontend-Mentor, Codelândia, FIGMA Templates, entre outros! :D <br>
 
 
 
