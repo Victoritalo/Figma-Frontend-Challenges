@@ -137,7 +137,6 @@ main {
 
 .container .card .image-box img:hover {
   transform: scale(1.2);
-  /* cursor: pointer; */
 }
 
 .container .card .content {
@@ -253,9 +252,7 @@ input::placeholder {
   }
 
   .banner-slider img {
-    /* display: block; */
     height: 150px;
-    /* object-fit: cover; */
     object-position: center;
     width: 100%;
   }
