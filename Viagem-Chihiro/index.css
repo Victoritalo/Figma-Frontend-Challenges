@@ -28,6 +28,10 @@ header {
   padding: 3rem;
 }
 
+nav li {
+  padding: 8px;
+}
+
 nav li:hover {
   transform: scale(1.2);
   cursor: pointer;
